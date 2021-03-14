@@ -2,7 +2,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
   </p>
 
@@ -10,7 +10,7 @@
 
 <p align="center">
   <img alt="Login" src="img/Loginweb.png" width="100%"><br>
-  <img alt="Login" src="img/Loginresponsivo.png" width="50%">
+  <img alt="Login" src="img/Loginresponsivo.png" width="30%">
 </p>
 
 ## Formulário de Login responsivo animado
