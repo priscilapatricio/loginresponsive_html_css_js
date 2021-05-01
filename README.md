@@ -1,6 +1,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
@@ -28,6 +29,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Criação de formulário de Login responsivo animado utilizando HTML, CSS e JavaScript.
 
 - Status do Projeto: Concluído :heavy_check_mark:
+
+## 👀 Deploy do Projeto
+
+Você pode acessar o projeto através deste [link](https://naughty-swanson-f54f43.netlify.app/).
 
 ## 👩🏿‍💻 Como rodar
 
